@@ -15,4 +15,3 @@ def canUnlockAll(boxes):
                 new_list.append(num)
 
     return(bool(len(new_list) == len(boxes)))
-
